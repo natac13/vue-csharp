@@ -1,8 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main>
-    <h1>Home</h1>
-    <RouterLink to="/todos">Todos</RouterLink>
+  <main class="container mx-auto flex items-center justify-center">
+    <h1 class="text-2xl font-bold">Home</h1>
   </main>
 </template>
